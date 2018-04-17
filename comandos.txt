@@ -1,0 +1,10 @@
+en terminarl
+
+"git status" esto es para ver las carpetas donde hubieron cambios
+
+git comit -m "guardar la carpeta de la semana5" esto es 
+
+git config --global --edit  modificar los datos del menu cmd
+
+git push origin master
+
